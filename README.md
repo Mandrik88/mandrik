@@ -23,4 +23,4 @@
 📫 How to reach me: lenochka1551@yandex.ru
 
 <a href="https://t.me/Anlena88"><img height="42" width="42" src="https://cdn.simpleicons.org/telegram/26A5E4" /></a>
-<a href="https://wa.me/qr/AY5DZJ3WL474E1"><img height="42" width="42" src="https://cdn.simpleicons.org/whatsapp/25D426" /></a>
+
